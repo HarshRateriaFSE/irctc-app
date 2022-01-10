@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-IrctcApplication<irctc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.cts.irctc.IrctcApplication",
+            "projectName": "irctc",
+            "args": ""
+        }
+    ]
+}
