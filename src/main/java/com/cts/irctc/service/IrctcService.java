@@ -11,6 +11,7 @@ import com.cts.irctc.model.TrainInfo;
 
 @Service
 public class IrctcService {
+	//harsh rateria service
 
 	public TrainInfo getTicketBookingResult(TicketBooking ticketBooking) throws ApplicationException {
 
